@@ -1,2 +1,32 @@
-title: Mehmet Semih BABACAN's Blog
-description: A blog about coding and the universe, simply everything
+title: OverReact
+description: I love React so much that I overReact.
+# This folder is where all the files related to the blog would live
+blogFolder: blog
+bannerImage: /banner.webp
+logoImage: ./logo.png
+navLinks:
+  - title: Docs
+    url: https://docs.truegit.io
+    isExternal: true
+  - title: Clone Me
+    url:
+    isExternal: true
+socials:
+  linkedin: https://www.linkedin.com/in/mehmetsemihbabacan
+  github: https://github.com/koltukutsu
+authors:
+  quantdaddy:
+    name: Mehmet Semih BABACAN
+    title: Learner, Developer, DOER
+    description: Enjoys coding and coding only
+    url: https://gully.to
+    profileImage: ""
+    socials:
+      linkedin:
+      instagram:
+      github: https://github.com/koltukutsu
+      twitter:
+      url:
+      youtube:
+      email:
+      reddit:
